@@ -33,6 +33,7 @@ CS 3231 and CS 3251. Because an OS must make effective use of the underlying har
 | ------------- |:-------------:| :-------------:|:-------------:|
 |Monday|2 - 4pm|FGH 201|Matthew Sedam|
 |Thursday|1:30 - 2:30pm|FGH 226|Conner Pinson|
+|Friday|1:30 - 2:30pm|FGH 226|Conner Pinson|
 
 ## Preferred Contact Method
 
