@@ -22,7 +22,8 @@ CS 3231 and CS 3251. Because an OS must make effective use of the underlying har
 ## Instructor Office Hours
 | Day | Time    | Location | Person  |
 | ------------- |:-------------:| :-------------:|:-------------:|
-|TBD|TBD|FGH 226|Daniel Balasubramanian|
+|Tuesday|1-2pm|FGH 314|Daniel Balasubramanian|
+|Thursday|12:20pm-1:20pm|FGH 314|Daniel Balasubramanian|
 
 **Note** - I am also available by appointment at [1025 16th Ave S](http://www.isis.vanderbilt.edu/contact). If you are coming to the ISIS office, first visit the adminstrative office on the first floor. Tell them that you are there to meet me, and they'll get you to the right place (my office is on the third floor).
 
@@ -30,8 +31,8 @@ CS 3231 and CS 3251. Because an OS must make effective use of the underlying har
 
 | Day | Time    | where    | Person  |
 | ------------- |:-------------:| :-------------:|:-------------:|
-|TBD|TBD|FGH 226|Conner Pinson|
-|TBD|TBD|FGH 201|Matthew Sedam|
+|Monday|2 - 4pm|FGH 201|Matthew Sedam|
+|Thursday|1:30 - 2:30pm|FGH 226|Conner Pinson|
 
 ## Preferred Contact Method
 
@@ -98,8 +99,8 @@ The instructor reserves the right to apply a curve to the final grades. In gener
 | ------------- |:-------------:| 
 | Programming Assignments | 50% | 
 | Quizzes + Midterm | 35% |
-| Attendance | 5% |
 | Final Project | 10% |
+| Attendance | 5% |
 
 We may occasionally have pop quizzes; if you are more than 10 minutes late you cannot take the pop quiz.
 
