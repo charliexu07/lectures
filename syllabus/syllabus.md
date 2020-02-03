@@ -19,9 +19,10 @@ CS 3231 and CS 3251. Because an OS must make effective use of the underlying har
 - Conner Pinson `conner.pinson@vanderbilt.edu`
 - Matthew Sedam `matthew.c.sedam@vanderbilt.edu`
 
-## Instructor Office Hours
+## Instructor and TA Office Hours
 | Day | Time    | Location | Person  |
 | ------------- |:-------------:| :-------------:|:-------------:|
+|Wednesday|12:30-2:30pm|FGH 385|Yuanqi Xie|
 |Tuesday|1-2pm|FGH 314|Daniel Balasubramanian|
 |Thursday|12:20pm-1:20pm|FGH 314|Daniel Balasubramanian|
 
