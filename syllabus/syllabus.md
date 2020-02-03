@@ -24,7 +24,6 @@ CS 3231 and CS 3251. Because an OS must make effective use of the underlying har
 | ------------- |:-------------:| :-------------:|:-------------:|
 |Wednesday|12:30-2:30pm|FGH 385|Yuanqi Xie|
 |Tuesday|1-2pm|FGH 314|Daniel Balasubramanian|
-|Thursday|12:20pm-1:20pm|FGH 314|Daniel Balasubramanian|
 
 **Note** - I am also available by appointment at [1025 16th Ave S](http://www.isis.vanderbilt.edu/contact). If you are coming to the ISIS office, first visit the adminstrative office on the first floor. Tell them that you are there to meet me, and they'll get you to the right place (my office is on the third floor).
 
